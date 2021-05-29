@@ -10,6 +10,8 @@ This is a repo created for 2d and 3d object recognition and detection using yolo
 3. To viz point-cloud in ros use | Terminal 3: `roslaunch camera_sim viz.launch` 
 
 
+# Results :
+![](result.gif)
 
 
 # Tested on System config:
