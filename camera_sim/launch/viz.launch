@@ -1,0 +1,10 @@
+<launch>
+
+
+<node name="joint_state_pub" pkg="joint_state_publisher" type="joint_state_publisher" />
+<node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher" respawn="false" />
+
+<!-- <arg robot_description="$(find_package camera_sim)/urdf/camera_stick.xacro"> -->
+
+
+</launch>

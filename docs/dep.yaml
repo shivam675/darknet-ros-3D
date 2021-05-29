@@ -1,0 +1,5 @@
+main:
+  darknet_ros
+  darknet
+  darknet_ros_msgs
+  
