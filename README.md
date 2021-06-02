@@ -1,7 +1,15 @@
 # darknet-ros-3D
 This is a repo created for 2d and 3d object recognition and detection using yolo darknet ros packages 
 
+### How to install:
+1. `cd ~/catkin_ws/src`
+2. `git clone https://github.com/shivam675/darknet-ros-3D.git`
+3. `cd ~/catkin_ws`
+4. `catkin_make -DCMAKE_BUILD_TYPE=Release darknet_ros`
+5. `catkin_make -DCMAKE_BUILD_TYPE=Release`
+6. `source devel/setup.bash`
 
+## Try to build the ws if it fails for first time.
 
 ### How to run:
 
