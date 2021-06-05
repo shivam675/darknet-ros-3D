@@ -10,7 +10,7 @@ This is a repo created for 2d and 3d object recognition and detection using yolo
 6. `catkin_make -DCMAKE_BUILD_TYPE=Release -j(nproc)`
 7. `source devel/setup.bash`
 
-## Try to build the ws if it fails for first time.
+## Try to build the ws again if it fails for first time.
 
 ### How to run:
 
